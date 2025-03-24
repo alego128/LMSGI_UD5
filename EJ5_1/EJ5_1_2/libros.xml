@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="libros.xsl"?>
+<libros>
+  <libro>
+    <isbn>978-1-23-456789-0</isbn>
+    <titulo>Introducción a la Inteligencia Artificial</titulo>
+    <autor>Sofía Méndez</autor>
+    <precio>9.25</precio>
+    <numPaginas>150</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-3-16-149410-1</isbn>
+    <titulo>Fundamentos de Redes</titulo>
+    <autor>Mario López</autor>
+    <precio>8.99</precio>
+    <numPaginas>250</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-0-12-345679-8</isbn>
+    <titulo>Desarrollo Web Moderno</titulo>
+    <autor>Elena Castro</autor>
+    <precio>7.50</precio>
+    <numPaginas>280</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-0-67-891235-6</isbn>
+    <titulo>Diseño UX/UI</titulo>
+    <autor>Raúl Fernández</autor>
+    <precio>6.99</precio>
+    <numPaginas>210</numPaginas>
+  </libro>
+  <libro>
+    <isbn>978-1-45-233429-5</isbn>
+    <titulo>Big Data y Analítica</titulo>
+    <autor>Carla Jiménez</autor>
+    <precio>9.75</precio>
+    <numPaginas>350</numPaginas>
+  </libro>
+</libros>
